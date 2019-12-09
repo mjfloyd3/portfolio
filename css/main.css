@@ -332,7 +332,7 @@ a {
   a strong {
     color: currentColor; }
   a:hover {
-    text-decoratione: underline;
+    text-decoration: underline;
     color: #e556fb; }
 
 code {
