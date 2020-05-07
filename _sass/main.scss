@@ -34,16 +34,30 @@ $primary-invert: $pink-invert;
 }
 
 hr {
-  margin: 1rem 0;
+  margin: .5rem 0;
   background-color: $light;
 }
 
 body {
   color: whitesmoke;
+  font-family: 'Libre Franklin';
 }
 
-a {
+a, a:hover {
   color: #e956ea;
+  display: inline-block;
+}
+
+a::after {
+  content:'';
+  border-top: 1px solid #e956ea;
+  display: block;
+}
+
+a:hover::after {
+  content: '';
+  border-top: 1px solid white;
+  display: block;
 }
 
 .is-dark, .navbar.is-dark {
