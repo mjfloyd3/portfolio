@@ -6831,6 +6831,9 @@ hr {
   margin: .5rem 0;
   background-color: whitesmoke; }
 
+html {
+  background-color: #001A2F !important; }
+
 body {
   color: whitesmoke;
   font-family: 'Libre Franklin'; }
