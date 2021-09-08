@@ -47,24 +47,7 @@ body {
   font-family: 'Fira Sans', Arial, sans-serif;
 }
 
-a, a:hover {
-  color: #e956ea;
-  display: inline-block;
-}
-
-a::after {
-  content:'';
-  border-top: 1px solid #e956ea;
-  display: block;
-}
-
-a:hover::after {
-  content: '';
-  border-top: 1px solid white;
-  display: block;
-}
-
 .is-dark, .navbar.is-dark {
   color: whitesmoke;
-  background-color: #001a33;
+  background-color: #001A2F;
 }
