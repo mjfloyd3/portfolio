@@ -6838,6 +6838,9 @@ body {
   color: whitesmoke;
   font-family: 'Cousine', Arial, sans-serif; }
 
+li {
+  padding-bottom: 1rem; }
+
 .is-dark, .navbar.is-dark {
   color: whitesmoke;
   background-color: #001A2F; }
