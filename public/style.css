@@ -1,0 +1,31 @@
+
+body {
+    color: #333;
+    font-size: 18px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+* {
+    font-family: 'Anybody', Arial, sans-serif;
+}
+
+.footer {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    border-top: 2px solid #EEE;
+}
+
+.psuedologo {
+    color: rgb(250, 107, 86);
+    font-family: 'Titan One', sans-serif;
+    font-size: 1.5rem;
+}
+
+.mail-icon {
+    color: #333;
+}
