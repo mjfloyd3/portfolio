@@ -19,12 +19,16 @@ const Template = () => {
                     </div>
                 </div>
             </div>
-            <div className="row bm-highlights mt-5">
-                <div className="col-12 text-center p-4">
-                    <img src={Enhanced} width="60%"/>
-                </div>
-                <div className="col-12 text-center p-4">
-                    <img src={BridgeImg} width="60%"/>
+            <div className="bm-highlights">
+                <div className="container">
+                    <div className="row my-5">
+                        <div className="col-12 text-center p-4">
+                            <img src={Enhanced} width="400"/>
+                        </div>
+                        <div className="col-12 text-center p-4">
+                            <img src={BridgeImg} width="400"/>
+                        </div>
+                    </div>
                 </div>
             </div>
 
