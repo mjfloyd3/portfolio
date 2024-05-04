@@ -19,7 +19,7 @@ const Navbar = () => {
                   <a className="nav-link" href="#selectedwork">Work</a>
                 </li>
                 <li className="nav-item pe-4">
-                  <a href="/about" className="nav-link">About</a>
+                  <Link to="/about" className="nav-link">About</Link>
                 </li>
               </ul>
               <a className="btn btn-primary" target="_blank" href = {Pdf}>View Resume</a>
