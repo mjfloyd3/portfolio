@@ -13,10 +13,10 @@ function App() {
       <HashRouter>
         <Routes>
           <Route index element={<HomePage/>}/>
-          <Route path="/sstemplates" element={<Sstemplates/>}/>
-          <Route path="/websiteredesign" element={<WebsiteRedesign/>}/>
-          <Route path="/officialtemplate" element={<ProductCommunicationTemplate/>}/>
-          <Route path="/about" element={<About/>}/>
+          <Route path="sstemplates" element={<Sstemplates/>}/>
+          <Route path="websiteredesign" element={<WebsiteRedesign/>}/>
+          <Route path="officialtemplate" element={<ProductCommunicationTemplate/>}/>
+          <Route path="about" element={<About/>}/>
         </Routes>
         </HashRouter>
         <Footer/>
