@@ -1,4 +1,4 @@
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
 import HomePage from './Pages/HomePage';
 import Sstemplates from './Pages/Sstemplate';
@@ -11,14 +11,14 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Switch>
+        <Routes>
           <Route index element={<HomePage/>}/>
           <Route path="/sstemplates" element={<Sstemplates/>}/>
           <Route path="/websiteredesign" element={<WebsiteRedesign/>}/>
           <Route path="/officialtemplate" element={<ProductCommunicationTemplate/>}/>
           <Route path="/about" element={<About/>}/>
-        </Switch>
-        </Router>
+        </Routes>
+      </Router>
         <Footer/>
     </div>
   );
