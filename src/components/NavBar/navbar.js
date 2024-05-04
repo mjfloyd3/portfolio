@@ -8,7 +8,7 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg">
           <div className="container">
             <div>
-              <Link to="/" className="logo">JF</Link>
+              <Link to="" className="logo">JF</Link>
             </div>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -16,7 +16,7 @@ const Navbar = () => {
             <div className="collapse navbar-collapse flex-grow-0" id="navbarNav">
               <ul className="navbar-nav">
                 <li className="nav-item pe-4">
-                  <a className="nav-link" href="/#selectedwork">Work</a>
+                  <a className="nav-link" href="#selectedwork">Work</a>
                 </li>
                 <li className="nav-item pe-4">
                   <Link to="/about" className="nav-link">About</Link>
