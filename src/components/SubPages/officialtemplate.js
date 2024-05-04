@@ -44,7 +44,9 @@ const ProductCommTemplate = () => {
                     </div>
                 </div>
             </div>
-            <div className="row bm-highlights-opt">
+            <div class="bm-highlights-opt mb-5">
+                <div class="container">
+                <div className="row">
                 <div className="col-lg-12">
                     <div className="text-center">
                         <div className="pt-5 mx-5">
@@ -60,12 +62,14 @@ const ProductCommTemplate = () => {
                         </div>
                         <div className="py-5">
                             <img className="me-3 mb-lg-0 mb-4" src={ProductCallouts} width="320"/>
-                            <img src={OfficialTemplateGuide} width="650" height="600"/>
+                            <img src={OfficialTemplateGuide} width="650" height="auto"/>
                             <p className="fs-6 text-muted fw-light mt-3">
                                 Concept I created for an author to “callout” a particular part of a note to emphasize something.
                             </p>
                         </div>
                     </div>
+                </div>
+                </div>
                 </div>
             </div>
         </section>
