@@ -8,7 +8,7 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg">
           <div className="container">
             <div>
-              <Link to="" className="logo">JF</Link>
+              <Link to="/" className="logo">JF</Link>
             </div>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -19,7 +19,7 @@ const Navbar = () => {
                   <a className="nav-link" href="#selectedwork">Work</a>
                 </li>
                 <li className="nav-item pe-4">
-                  <a href="about" className="nav-link">About</a>
+                  <a href="/about" className="nav-link">About</a>
                 </li>
               </ul>
               <a className="btn btn-primary" target="_blank" href = {Pdf}>View Resume</a>
