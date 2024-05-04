@@ -16,9 +16,6 @@ const Navbar = () => {
             <div className="collapse navbar-collapse flex-grow-0" id="navbarNav">
               <ul className="navbar-nav">
                 <li className="nav-item pe-4">
-                  <a className="nav-link" href="#/#selectedwork">Work</a>
-                </li>
-                <li className="nav-item pe-4">
                   <Link to="/about" className="nav-link">About</Link>
                 </li>
               </ul>

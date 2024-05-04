@@ -35,7 +35,7 @@ const Work = () => {
                         </div>
                         <div className="row my-5 py-md-5 py-0">
                             <div className="col">
-                                <Link to="WebsiteRedesign" className="text-decoration-none">
+                                <Link to="WebsiteRedesign" onClick={scrollToTop} className="text-decoration-none">
                                     <img src={RedesignPreview} alt="portal preview" width="90%" />
                                     <h4 className="mt-3">BlueMatrix Website Redesign</h4>
                                 </Link>
@@ -44,7 +44,7 @@ const Work = () => {
                         </div>
                         <div className="row my-5 py-md-5 py-0">
                             <div className="col">
-                                <Link to="OfficialTemplate" className="text-decoration-none">
+                                <Link to="OfficialTemplate" onClick={scrollToTop} className="text-decoration-none">
                                     <img src={ProductPreview} alt="Official Communication Template" width="90%" />
                                     <h4 className="mt-3">Official Product Communications Template</h4>
                                 </Link>
