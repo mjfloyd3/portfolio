@@ -1,5 +1,5 @@
-import { HashRouter as Router, Route, Routes, useLocation } from "react-router-dom";
-
+import React from 'react';
+import { HashRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
 import HomePage from './Pages/HomePage';
 import Sstemplates from './Pages/Sstemplate';
 import WebsiteRedesign from './Pages/WebsiteRedesign';
