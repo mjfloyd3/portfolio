@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import scrollToTop from '../scrollToTop';
 import './work.css';
 import Preview from '../../assets/images/portal-preview.png';
 import NYCKnowsPreview from '../../assets/images/nycknowspreview3.png';
@@ -25,7 +26,7 @@ const Work = () => {
                         </div>
                         <div className="row my-5 py-md-5 py-0">
                             <div className="col">
-                                <Link to="Sstemplates" className="text-decoration-none">
+                                <Link to="Sstemplates" onClick={scrollToTop} className="text-decoration-none">
                                     <img src={EnhancedPreview} alt="portal preview" width="90%" />
                                     <h4 class="mt-3">Research Report Templates</h4>
                                 </Link>

@@ -6,7 +6,9 @@ import OfficialTemplateMobile from '../../assets/images/product-template-mobile.
 import ProductCallouts from '../../assets/images/product-callouts.png';
 import OfficialTemplateGuide from '../../assets/images/official-template-guide.png';
 
-
+const scrollToTop = () => {
+    window.scrollTo(0, 0)
+}
 
 const ProductCommTemplate = () => {
     return (
