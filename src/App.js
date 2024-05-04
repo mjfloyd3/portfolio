@@ -1,4 +1,5 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
+
 import HomePage from './Pages/HomePage';
 import Sstemplates from './Pages/Sstemplate';
 import WebsiteRedesign from './Pages/WebsiteRedesign';
@@ -9,7 +10,7 @@ import Footer from "./Pages/footer";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route index element={<HomePage/>}/>
           <Route path="/sstemplates" element={<Sstemplates/>}/>
@@ -17,7 +18,7 @@ function App() {
           <Route path="/officialtemplate" element={<ProductCommunicationTemplate/>}/>
           <Route path="/about" element={<About/>}/>
         </Routes>
-        </BrowserRouter>
+        </HashRouter>
         <Footer/>
     </div>
   );
