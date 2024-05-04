@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/jackfloyd.com/static/css/main.d4e41426.css",
-    "main.js": "/jackfloyd.com/static/js/main.eed58f03.js",
-    "static/media/designsystem.png": "/jackfloyd.com/static/media/designsystem.04a7a9bf75525bd29000.png",
-    "static/media/final-page-collection.png": "/jackfloyd.com/static/media/final-page-collection.ad69a52872cb3f46b75f.png",
-    "static/media/samplegraphics.png": "/jackfloyd.com/static/media/samplegraphics.a5e59b8bf41d3870982f.png",
-    "static/media/nycknowspreview3.png": "/jackfloyd.com/static/media/nycknowspreview3.b93f704a4a2c9dbfd365.png",
-    "static/media/site-redesign-preview.png": "/jackfloyd.com/static/media/site-redesign-preview.9a99c057033f0d18ceea.png",
-    "static/media/template-preview.png": "/jackfloyd.com/static/media/template-preview.3308cf0666b7b0c649a6.png",
-    "static/media/official-template-webedit.png": "/jackfloyd.com/static/media/official-template-webedit.bf7caf243ddee71134ad.png",
-    "static/media/official-template-mockup.png": "/jackfloyd.com/static/media/official-template-mockup.4e39916cf5f94f3104a8.png",
-    "static/media/product-template-preview.png": "/jackfloyd.com/static/media/product-template-preview.922d4be63c8c5dc3e779.png",
-    "static/media/bridge-theme-img.png": "/jackfloyd.com/static/media/bridge-theme-img.ea316521e592f5e94ddd.png",
-    "static/media/portal-preview.png": "/jackfloyd.com/static/media/portal-preview.2e5405865c53b6659c93.png",
-    "static/media/official-template-guide.png": "/jackfloyd.com/static/media/official-template-guide.ac960fa078ef7f2a9bcc.png",
-    "static/media/enhanced-preview.png": "/jackfloyd.com/static/media/enhanced-preview.d361173f4d8495b46441.png",
-    "static/media/product-template-mobile.png": "/jackfloyd.com/static/media/product-template-mobile.d3f15b1ad399814e4221.png",
-    "static/media/bm-wireframe.png": "/jackfloyd.com/static/media/bm-wireframe.e67e0c0df9286c4eb7e6.png",
-    "static/media/product-callouts.png": "/jackfloyd.com/static/media/product-callouts.b00e3de40d8cc7346e94.png",
-    "static/media/Resume-wwJF.pdf": "/jackfloyd.com/static/media/Resume-wwJF.edc9dcf3c202e0f4d560.pdf",
-    "index.html": "/jackfloyd.com/index.html",
-    "main.d4e41426.css.map": "/jackfloyd.com/static/css/main.d4e41426.css.map",
-    "main.eed58f03.js.map": "/jackfloyd.com/static/js/main.eed58f03.js.map"
+    "main.css": "/static/css/main.d4e41426.css",
+    "main.js": "/static/js/main.68f9975c.js",
+    "static/media/designsystem.png": "/static/media/designsystem.04a7a9bf75525bd29000.png",
+    "static/media/final-page-collection.png": "/static/media/final-page-collection.ad69a52872cb3f46b75f.png",
+    "static/media/samplegraphics.png": "/static/media/samplegraphics.a5e59b8bf41d3870982f.png",
+    "static/media/nycknowspreview3.png": "/static/media/nycknowspreview3.b93f704a4a2c9dbfd365.png",
+    "static/media/site-redesign-preview.png": "/static/media/site-redesign-preview.9a99c057033f0d18ceea.png",
+    "static/media/template-preview.png": "/static/media/template-preview.3308cf0666b7b0c649a6.png",
+    "static/media/official-template-webedit.png": "/static/media/official-template-webedit.bf7caf243ddee71134ad.png",
+    "static/media/official-template-mockup.png": "/static/media/official-template-mockup.4e39916cf5f94f3104a8.png",
+    "static/media/product-template-preview.png": "/static/media/product-template-preview.922d4be63c8c5dc3e779.png",
+    "static/media/bridge-theme-img.png": "/static/media/bridge-theme-img.ea316521e592f5e94ddd.png",
+    "static/media/portal-preview.png": "/static/media/portal-preview.2e5405865c53b6659c93.png",
+    "static/media/official-template-guide.png": "/static/media/official-template-guide.ac960fa078ef7f2a9bcc.png",
+    "static/media/enhanced-preview.png": "/static/media/enhanced-preview.d361173f4d8495b46441.png",
+    "static/media/product-template-mobile.png": "/static/media/product-template-mobile.d3f15b1ad399814e4221.png",
+    "static/media/bm-wireframe.png": "/static/media/bm-wireframe.e67e0c0df9286c4eb7e6.png",
+    "static/media/product-callouts.png": "/static/media/product-callouts.b00e3de40d8cc7346e94.png",
+    "static/media/Resume-wwJF.pdf": "/static/media/Resume-wwJF.edc9dcf3c202e0f4d560.pdf",
+    "index.html": "/index.html",
+    "main.d4e41426.css.map": "/static/css/main.d4e41426.css.map",
+    "main.68f9975c.js.map": "/static/js/main.68f9975c.js.map"
   },
   "entrypoints": [
     "static/css/main.d4e41426.css",
-    "static/js/main.eed58f03.js"
+    "static/js/main.68f9975c.js"
   ]
 }
