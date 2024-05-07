@@ -23,7 +23,7 @@ const ProductCommTemplate = () => {
                                 <p className="m-0">My Role</p>
                                 <p className="m-0 fw-light">Design & Development Lead</p>
                             </div>
-                            <div className="pe-md-5 pe-3">
+                            <div className="pe-md-5 pe-3 team">
                                 <p className="m-0">The Team</p>
                                 <p className="m-0 fw-light">2x Sales</p>
                                 <p className="m-0 fw-light">3x Product</p>

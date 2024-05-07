@@ -6,7 +6,7 @@ const Footer= () => {
             <div className="container d-flex justify-content-between align-items-center">
                 <div>
                     <p className="psuedologo m-0">JACK FLOYD</p>
-                    <p>UI Developer and Designer</p>
+                    <p className="pos">UI Developer and Designer</p>
                 </div>
                 <div>
                     <a href="https://linkedin.com/in/jackfloyd" className="text-decoration-none fs-2"><i class="bi bi-linkedin"></i></a> 
