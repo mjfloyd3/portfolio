@@ -9,8 +9,13 @@ img {
     height: auto;
 }
 
-* {
+
+h1,h2,h3,h4,h5,h6, a.btn, p.pos {
     font-family: 'Anybody', Arial, sans-serif;
+}
+
+p, small, caption, li {
+    font-family: 'Inter', Arial, sans-serif;
 }
 
 .footer {
