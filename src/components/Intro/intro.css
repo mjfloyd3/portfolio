@@ -2,11 +2,24 @@
     padding-top: 2rem;
     padding-bottom: 4rem;
 }
+
+#Intro h1 {
+    font-size: 3rem;
+    margin-top: 1.5rem;
+}
+
 h1 {
-    font-weight:bold;
+    font-weight: bold;
 }
 
 h2 {
     font-size: 1.5rem;
     font-weight: 300;
+}
+
+@media screen and (min-width: 768px) {
+    #Intro h1 {
+        font-size: 4rem;
+        margin-top: 3rem;
+    }
 }

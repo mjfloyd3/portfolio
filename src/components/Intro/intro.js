@@ -6,11 +6,12 @@ const Intro = () => {
         <section id="Intro">  
             <div class="container">     
                 <div className="row introContent">
-                    <div class="col-lg-8">
-                    <h1>Jack Floyd</h1>
-                    <h2>UI Developer and Designer</h2>
-                    <p class="lead fw-light mt-4">
-                        UI Developer with 7+ years experience developing and designing innovative web applications. I am interested in collaborating to develop meaningful solutions and build impactful, accessible user experiences; based in New York, NY.
+                    <div class="col-lg-9">
+                    <div class="d-md-flex align-items-baseline">
+                    <h1>Hi, I'm Jack Floyd</h1>
+                    </div>
+                    <p class="lead fw-light mt-4 fs-2">
+                        I'm a user interface developer and designer interested in creative and humane tech. For the last six years I've been building innovative and accessible web applications for a leading SaaS fintech firm. Currently based in New York, NY.
                     </p>
                     </div>
                 </div>
