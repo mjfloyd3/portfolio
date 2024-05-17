@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.171b1de8.css",
-    "main.js": "/static/js/main.4ddf2b6c.js",
+    "main.css": "/static/css/main.ff335cb8.css",
+    "main.js": "/static/js/main.5b772dd8.js",
     "static/media/designsystem.png": "/static/media/designsystem.04a7a9bf75525bd29000.png",
     "static/media/final-page-collection.png": "/static/media/final-page-collection.ad69a52872cb3f46b75f.png",
     "static/media/samplegraphics.png": "/static/media/samplegraphics.a5e59b8bf41d3870982f.png",
@@ -20,11 +20,11 @@
     "static/media/product-callouts.png": "/static/media/product-callouts.b00e3de40d8cc7346e94.png",
     "static/media/Resume-wwJF.pdf": "/static/media/Resume-wwJF.edc9dcf3c202e0f4d560.pdf",
     "index.html": "/index.html",
-    "main.171b1de8.css.map": "/static/css/main.171b1de8.css.map",
-    "main.4ddf2b6c.js.map": "/static/js/main.4ddf2b6c.js.map"
+    "main.ff335cb8.css.map": "/static/css/main.ff335cb8.css.map",
+    "main.5b772dd8.js.map": "/static/js/main.5b772dd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.171b1de8.css",
-    "static/js/main.4ddf2b6c.js"
+    "static/css/main.ff335cb8.css",
+    "static/js/main.5b772dd8.js"
   ]
 }
