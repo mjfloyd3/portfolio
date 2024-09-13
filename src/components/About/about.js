@@ -8,9 +8,10 @@ const About = () => {
                 <div className="row aboutContent">
                     <div className="col-lg-6">
                     <h3>About</h3>
-
-                    <p className="fw-light">While studying environmental science in college, I was exposed to Geographic Information Systems (GIS) and visualizing geographic data. This introduction stimulated my interest in utilizing technology to address real problems while satisfying an creative inclination to effectively tell a story through visual design. </p>
-                    <p className="fw-light">After some additional coursework and a stint as a GIS professional developing zoning maps, I embarked on a journey developing and designing for the web, ultimately leading me to my current career as a front-end developer and product designer. I greatly enjoy learning and using modern technologies to create performant, responsive and intuitive web applications that ideally allow me to solve problems and communicate something.</p>
+                    <p className="fw-light">
+                    I am a Front-End Developer and UI/Product Designer with a focus on building accessible web applications. Combining design and development, I am passionate about creating software that not only looks good but is also highly functional and well-built.
+                    </p>
+                    <p class="fw-light">For the past 6+ years in my current role at a leading SaaS firm, I've had the privilege of designing products and building UI's relied on by some of the world's largest investment research and wealth management firms. </p>
                     <p className="fw-light">Away from the computer screen, I enjoy spending time with friends and family; photography, theater, biking and skiing. While I currently reside in Brooklyn, I am a proud Midwesterner, originally from Milwaukee, Wisconsin.</p>
                     </div>
                     <div className="col-lg-5 offset-lg-1">
