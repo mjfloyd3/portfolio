@@ -5,7 +5,7 @@ const Intro = () => {
     return (
         <section id="Intro">  
             <div class="container">     
-                <div className="row introContent">
+                <div className="row introContent animate__animated animate__fadeInLeft">
                     <div class="col-lg-9">
                     <div class="d-md-flex align-items-baseline">
                     <h1>Hi, I'm Jack Floyd</h1>

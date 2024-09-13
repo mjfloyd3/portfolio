@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Pdf from '../../assets/Resume-wwJF.pdf';
+import Pdf from '../../assets/Jack-Floyd-Resume-25.pdf';
 import './navbar.css';
 
 const Navbar = () => {
@@ -19,7 +19,7 @@ const Navbar = () => {
                   <Link to="/about" className="nav-link">About</Link>
                 </li>
               </ul>
-              <a className="btn btn-primary" target="_blank" href = {Pdf}>View Resume</a>
+              <a className="btn btn-primary" target="_blank" rel="noreferrer" href = {Pdf}>View Resume</a>
             </div>
           </div>
         </nav>

@@ -7,14 +7,14 @@
     position: sticky;
     top: 0;
     z-index: 3;
-    background: rgb(244, 243, 255);
+    background: #f4f3ff;
 }
 
 .logo {
     text-decoration: none; 
     font-family: "Titan One", sans-serif;
     font-size: 2rem;
-    color: rgb(250, 107, 86);
+    color: #2DBB5D;
 }
 
 .nav-item a {
